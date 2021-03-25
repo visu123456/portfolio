@@ -1509,9 +1509,9 @@ body.offcanvas {
     @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap');
     
     h4 {
-      font-family: 'Averia Serif Libre', cursive;
+      font-family: 'New Tegomin', serif;
       animation: text-shadow 1.5s ease-in-out infinite;
-      font-size: 1.5em;
+      font-size: 2em;
       font-weight: 900;
       line-height: 1;
     }
@@ -1604,13 +1604,12 @@ body.offcanvas {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-/* @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
 .dance{
   
     
     animation: text-shadow 2s ease-in-out infinite;
-    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'New Tegomin', serif;
 
 
 }
